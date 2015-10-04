@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:padding="8dp"
+	android:elevation="8dp"
+	android:background="@drawable/row_design"
+	android:orientation="vertical">
+
+	<FrameLayout
+		android:layout_marginBottom="4dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<ImageView
+			android:id="@+id/right_pin"
+			android:layout_gravity="right"
+			android:src="@drawable/ao"
+			android:layout_width="25dp"
+			android:layout_height="25dp"/>
+
+		<ImageView
+			android:id="@+id/left_pin"
+			android:layout_gravity="left"
+			android:src="@drawable/ao"
+			android:layout_width="25dp"
+			android:layout_height="25dp"/>
+
+	</FrameLayout>
+
+	<TextView
+		android:id="@+id/name"
+		android:textColor="#000"
+		android:textSize="25sp"
+		android:padding="2dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"/>
+
+	<TextView
+		android:id="@+id/where"
+		android:textSize="25sp"
+		android:padding="2dp"
+		android:textColor="#000"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"/>
+
+	<TextView
+		android:id="@+id/what"
+		android:textColor="#000"
+		android:textSize="25sp"
+		android:padding="2dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"/>
+
+</LinearLayout>

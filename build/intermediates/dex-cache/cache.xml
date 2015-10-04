@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.4.0\558e074f136fee609b8758480ecd00e286595137\firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="C:\Users\USER\Desktop\Hack418App\mobile\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.4.0-cfd8653975305c15402fe3e5c25593e94802b75e.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\USER\Desktop\Hack418App\mobile\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-2b7b2854ada29cbfcead5e0aa185153471369a2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\USER\Desktop\Hack418App\mobile\build\intermediates\pre-dexed\debug\tubesock-0.0.12-5cb1e2afe6ec4f834d06c5d96a378b30bd6cb533.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\USER\Desktop\Hack418App\mobile\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-f5554fb524baf79a9ad64c74575228be0856e73d.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\USER\Desktop\Hack418App\mobile\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-8265e07325cef605b74d681b655e4589706195b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Desktop\Hack418App\mobile\build\intermediates\exploded-aar\com.beardedhen\androidbootstrap\1.2.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11cd8b9af3b27673eceda7335192cd01b423ef26">
+        <dex dex="C:\Users\USER\Desktop\Hack418App\mobile\build\intermediates\pre-dexed\debug\classes-becc286653be71b2bb39500f2396d96be3880426.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.4.0\f00bc767918ad9c89e5c13e25706d033a58e13c2\firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="C:\Users\USER\Desktop\Hack418App\mobile\build\intermediates\pre-dexed\debug\firebase-client-android-2.4.0-4d06cd9dec17e5634889c7ac2ce6de0a9d1f6d68.jar" />
+    </item>
+
+</items>
